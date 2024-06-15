@@ -24,7 +24,7 @@ flutter pub get
 
 ```bash
 
-flutter pub add icons_launcher flutter_native_splash rename go_router dio flutter_riverpod riverpod
+flutter pub add icons_launcher flutter_native_splash rename go_router dio flutter_riverpod riverpod json_theme
 
 ```
 
