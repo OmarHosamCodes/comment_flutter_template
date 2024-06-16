@@ -1,6 +1,6 @@
 # Comment Devs' Flutter Template
 
-#### ( MVC ) Model View Controller
+#### ( MVCS ) Model View Controller Service
 
 ## Getting Started
 
